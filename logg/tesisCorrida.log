@@ -1,0 +1,124 @@
+2017-10-21 18:45:28 INFO  Configuration:88 - Cargado algoritmo.properties
+2017-10-21 18:45:28 INFO  Tesis:118 - nro de corrida:2
+2017-10-21 18:45:28 INFO  Tesis:119 - tamanho del enjambre:3
+2017-10-21 18:45:28 INFO  Tesis:121 - tamanho del archivo de lideres:3
+2017-10-21 18:45:28 INFO  Tesis:123 - maximo de iteraciones:3
+2017-10-21 18:45:28 INFO  SMPSOTesis:195 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:196 -                 EJECUTAR EL PSO                        
+2017-10-21 18:45:28 INFO  SMPSOTesis:197 - Empieza: Sat Oct 21 18:45:28 PYST 2017
+2017-10-21 18:45:28 INFO  SMPSOTesis:198 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:199 - STEP 0, iniciar Parametros
+2017-10-21 18:45:28 INFO  SMPSOTesis:202 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:203 - STEP 1 (and 3) poblacion inicial. creamos cada una de las particulas con un valor aleatorio para cada una
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4981036982286671, entropia=0.23731611156203802}
+2017-10-21 18:45:28 INFO  SMPSOTesis:208 - Particula [1 de 3] OBJ. contraste:0.4981036982286671, entropia:0.23731611156203802 VARDESC. n:2, m:3, alfa:0.366674783332978, type:3, dim:9
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.48671524881751366, entropia=0.23732696482554702}
+2017-10-21 18:45:28 INFO  SMPSOTesis:208 - Particula [2 de 3] OBJ. contraste:0.48671524881751366, entropia:0.23732696482554702 VARDESC. n:0, m:3, alfa:0.4129733609995536, type:4, dim:8
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4858828211837849, entropia=0.23675912422058978}
+2017-10-21 18:45:28 INFO  SMPSOTesis:208 - Particula [3 de 3] OBJ. contraste:0.4858828211837849, entropia:0.23675912422058978 VARDESC. n:0, m:3, alfa:0.43764773773100696, type:5, dim:8
+2017-10-21 18:45:28 INFO  SMPSOTesis:210 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:211 - STEP 2. iniciar velocidad de cada particula a 0. Matriz cantidad de particulas x cantidad de variables
+2017-10-21 18:45:28 INFO  SMPSOTesis:217 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:218 - STEP 4 and 5. lideres iniciales. archivo de global best inicial, solo entraran los dominantes
+2017-10-21 18:45:28 INFO  SMPSOTesis:223 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:224 - STEP 6. Initialize the memory of each particle, al principio todos son mejores locales
+2017-10-21 18:45:28 INFO  SMPSOTesis:232 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:233 - STEP 7. Iteraciones
+2017-10-21 18:45:28 INFO  SMPSOTesis:289 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  SMPSOTesis:290 -                      FIN DEL PSO                       
+2017-10-21 18:45:28 INFO  SMPSOTesis:291 - -------------------------------------------------------
+2017-10-21 18:45:28 INFO  Tesis:134 - Tiempo total: 542 ms
+2017-10-21 18:45:28 INFO  Configuration:220 - Cargando el archivo RESULTADOS...
+2017-10-21 18:45:28 INFO  SMPSOTesis:247 - run hilo >> 1 Iteracion [3 de 3] Sat Oct 21 18:45:28 PYST 2017
+2017-10-21 18:45:28 INFO  SMPSOTesis:250 - run hilo >> 1 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:45:28 INFO  SMPSOTesis:253 - run hilo >> 1 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:45:28 INFO  SMPSOTesis:247 - run hilo >> 2 Iteracion [3 de 3] Sat Oct 21 18:45:28 PYST 2017
+2017-10-21 18:45:28 INFO  SMPSOTesis:250 - run hilo >> 2 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:45:28 INFO  SMPSOTesis:253 - run hilo >> 2 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:45:28 INFO  SMPSOTesis:247 - run hilo >> 3 Iteracion [3 de 3] Sat Oct 21 18:45:28 PYST 2017
+2017-10-21 18:45:28 INFO  SMPSOTesis:250 - run hilo >> 3 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:45:28 INFO  SMPSOTesis:253 - run hilo >> 3 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:45:28 INFO  Configuration:149 - Cargando las soluciones en la base de datos..
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4984071305339287, entropia=0.23794248228018255}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [1 de 3] OBJ. contraste:0.4984071305339287, entropia:0.23794248228018255 VARDESC. n:2, m:3, alfa:0.3423698233113387, type:2, dim:9
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4981036982286671, entropia=0.23731611156203802}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [1 de 3] OBJ. contraste:0.4981036982286671, entropia:0.23731611156203802 VARDESC. n:2, m:3, alfa:0.3423698233113387, type:2, dim:9
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4981036982286671, entropia=0.23731611156203802}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [1 de 3] OBJ. contraste:0.4981036982286671, entropia:0.23731611156203802 VARDESC. n:2, m:3, alfa:0.3423698233113387, type:2, dim:9
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.47102537358207114, entropia=0.22925098253072393}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [2 de 3] OBJ. contraste:0.47102537358207114, entropia:0.22925098253072393 VARDESC. n:0, m:3, alfa:0.435970393997843, type:2, dim:8
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.47102537358207114, entropia=0.22925098253072393}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [2 de 3] OBJ. contraste:0.47102537358207114, entropia:0.22925098253072393 VARDESC. n:0, m:3, alfa:0.435970393997843, type:2, dim:8
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.47102537358207114, entropia=0.22925098253072393}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [2 de 3] OBJ. contraste:0.47102537358207114, entropia:0.22925098253072393 VARDESC. n:0, m:3, alfa:0.435970393997843, type:2, dim:8
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4559395623766639, entropia=0.22558796542059478}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [3 de 3] OBJ. contraste:0.4559395623766639, entropia:0.22558796542059478 VARDESC. n:0, m:3, alfa:0.5, type:3, dim:8
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4559395623766639, entropia=0.22558796542059478}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [3 de 3] OBJ. contraste:0.4559395623766639, entropia:0.22558796542059478 VARDESC. n:0, m:3, alfa:0.5, type:3, dim:8
+2017-10-21 18:45:28 INFO  Configuration:174 - INSERT INTO resultados(n, m , alfa, type, dim, entropia, contraste, nombre, dominado, nrocorrida, imagen) VALUES(2,3,0.366674783332978,3,9,0.23731611156203802,0.4981036982286671,'C:\Users\Lorelay\Documents\NetBeansProjects\psomcl\src\image\mdb001.pgm','N',2,?)
+2017-10-21 18:45:28 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.4559395623766639, entropia=0.22558796542059478}
+2017-10-21 18:45:28 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [3 de 3] OBJ. contraste:0.4559395623766639, entropia:0.22558796542059478 VARDESC. n:0, m:3, alfa:0.5, type:3, dim:8
+2017-10-21 18:45:28 INFO  Configuration:174 - INSERT INTO resultados(n, m , alfa, type, dim, entropia, contraste, nombre, dominado, nrocorrida, imagen) VALUES(0,3,0.4129733609995536,4,8,0.23732696482554702,0.48671524881751366,'C:\Users\Lorelay\Documents\NetBeansProjects\psomcl\src\image\mdb001.pgm','N',2,?)
+2017-10-21 18:45:29 INFO  Configuration:180 - cantidad de registros insertados: 2
+2017-10-21 18:54:47 INFO  Configuration:88 - Cargado algoritmo.properties
+2017-10-21 18:54:47 INFO  Tesis:118 - nro de corrida:2
+2017-10-21 18:54:47 INFO  Tesis:119 - tamanho del enjambre:3
+2017-10-21 18:54:47 INFO  Tesis:121 - tamanho del archivo de lideres:3
+2017-10-21 18:54:47 INFO  Tesis:123 - maximo de iteraciones:3
+2017-10-21 18:54:47 INFO  SMPSOTesis:195 - -------------------------------------------------------
+2017-10-21 18:54:47 INFO  SMPSOTesis:196 -                 EJECUTAR EL PSO                        
+2017-10-21 18:54:47 INFO  SMPSOTesis:197 - Empieza: Sat Oct 21 18:54:47 PYST 2017
+2017-10-21 18:54:47 INFO  SMPSOTesis:198 - -------------------------------------------------------
+2017-10-21 18:54:47 INFO  SMPSOTesis:199 - STEP 0, iniciar Parametros
+2017-10-21 18:54:47 INFO  SMPSOTesis:202 - -------------------------------------------------------
+2017-10-21 18:54:47 INFO  SMPSOTesis:203 - STEP 1 (and 3) poblacion inicial. creamos cada una de las particulas con un valor aleatorio para cada una
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.502062387481762, entropia=0.24665808629926042}
+2017-10-21 18:54:48 INFO  SMPSOTesis:208 - Particula [1 de 3] OBJ. contraste:0.502062387481762, entropia:0.24665808629926042 VARDESC. n:2, m:3, alfa:0.21369008686455127, type:4, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.49205088493826565, entropia=0.2407485327871788}
+2017-10-21 18:54:48 INFO  SMPSOTesis:208 - Particula [2 de 3] OBJ. contraste:0.49205088493826565, entropia:0.2407485327871788 VARDESC. n:0, m:3, alfa:0.30684087274416827, type:3, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.49604174246906596, entropia=0.24143747876602534}
+2017-10-21 18:54:48 INFO  SMPSOTesis:208 - Particula [3 de 3] OBJ. contraste:0.49604174246906596, entropia:0.24143747876602534 VARDESC. n:0, m:3, alfa:0.22024952093326589, type:1, dim:5
+2017-10-21 18:54:48 INFO  SMPSOTesis:210 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  SMPSOTesis:211 - STEP 2. iniciar velocidad de cada particula a 0. Matriz cantidad de particulas x cantidad de variables
+2017-10-21 18:54:48 INFO  SMPSOTesis:217 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  SMPSOTesis:218 - STEP 4 and 5. lideres iniciales. archivo de global best inicial, solo entraran los dominantes
+2017-10-21 18:54:48 INFO  SMPSOTesis:223 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  SMPSOTesis:224 - STEP 6. Initialize the memory of each particle, al principio todos son mejores locales
+2017-10-21 18:54:48 INFO  SMPSOTesis:232 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  SMPSOTesis:233 - STEP 7. Iteraciones
+2017-10-21 18:54:48 INFO  SMPSOTesis:289 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  SMPSOTesis:290 -                      FIN DEL PSO                       
+2017-10-21 18:54:48 INFO  SMPSOTesis:291 - -------------------------------------------------------
+2017-10-21 18:54:48 INFO  Tesis:134 - Tiempo total: 416 ms
+2017-10-21 18:54:48 INFO  Configuration:223 - Cargando el archivo RESULTADOS...
+2017-10-21 18:54:48 INFO  SMPSOTesis:247 - run hilo >> 1 Iteracion [3 de 3] Sat Oct 21 18:54:48 PYST 2017
+2017-10-21 18:54:48 INFO  SMPSOTesis:247 - run hilo >> 2 Iteracion [3 de 3] Sat Oct 21 18:54:48 PYST 2017
+2017-10-21 18:54:48 INFO  SMPSOTesis:247 - run hilo >> 3 Iteracion [3 de 3] Sat Oct 21 18:54:48 PYST 2017
+2017-10-21 18:54:48 INFO  SMPSOTesis:250 - run hilo >> 1 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:54:48 INFO  SMPSOTesis:253 - run hilo >> 1 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:54:48 INFO  SMPSOTesis:250 - run hilo >> 3 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:54:48 INFO  SMPSOTesis:253 - run hilo >> 3 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:54:48 INFO  SMPSOTesis:250 - run hilo >> 2 Iteracion [3 de 3] Calculo las velocidades
+2017-10-21 18:54:48 INFO  SMPSOTesis:253 - run hilo >> 2 Iteracion [3 de 3] Calculo las nuevas posiciones
+2017-10-21 18:54:48 INFO  Configuration:150 - Cargando las soluciones en la base de datos..
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.502062387481762, entropia=0.24665808629926042}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [1 de 3] OBJ. contraste:0.502062387481762, entropia:0.24665808629926042 VARDESC. n:2, m:3, alfa:0.21369008686455127, type:4, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.502062387481762, entropia=0.24665808629926042}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [1 de 3] OBJ. contraste:0.502062387481762, entropia:0.24665808629926042 VARDESC. n:2, m:3, alfa:0.21369008686455127, type:4, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.502062387481762, entropia=0.24665808629926042}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [1 de 3] OBJ. contraste:0.502062387481762, entropia:0.24665808629926042 VARDESC. n:2, m:3, alfa:0.21369008686455127, type:4, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5024477096176383, entropia=0.24773389875073065}
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5024477096176383, entropia=0.24773389875073065}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [2 de 3] OBJ. contraste:0.5024477096176383, entropia:0.24773389875073065 VARDESC. n:2, m:3, alfa:0.0, type:5, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5024477096176383, entropia=0.24773389875073065}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [2 de 3] OBJ. contraste:0.5024477096176383, entropia:0.24773389875073065 VARDESC. n:2, m:3, alfa:0.0, type:5, dim:3
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [2 de 3] OBJ. contraste:0.5024477096176383, entropia:0.24773389875073065 VARDESC. n:2, m:3, alfa:0.0, type:5, dim:3
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5015892327904279, entropia=0.245725551921873}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 1 Particula [3 de 3] OBJ. contraste:0.5015892327904279, entropia:0.245725551921873 VARDESC. n:2, m:3, alfa:0.2437896205981618, type:5, dim:5
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5015892327904279, entropia=0.245725551921873}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 2 Particula [3 de 3] OBJ. contraste:0.5015892327904279, entropia:0.245725551921873 VARDESC. n:2, m:3, alfa:0.2437896205981618, type:5, dim:5
+2017-10-21 18:54:48 INFO  TestOpenCV:391 - >>>Resultado{contraste=0.5015892327904279, entropia=0.245725551921873}
+2017-10-21 18:54:48 INFO  SMPSOTesis:260 - run hilo >> 3 Particula [3 de 3] OBJ. contraste:0.5015892327904279, entropia:0.245725551921873 VARDESC. n:2, m:3, alfa:0.2437896205981618, type:5, dim:5
+2017-10-21 18:54:48 INFO  Configuration:177 - INSERT INTO resultados(n, m , alfa, type, dim, entropia, contraste, nombre, dominado, nrocorrida, imagen, fecha) VALUES(2,3,0.0,5,3,0.24773389875073065,0.5024477096176383,'C:\Users\Lorelay\Documents\NetBeansProjects\psomcl\src\image\mdb001.pgm','N',2,?,Sat Oct 21 18:54:48 PYST 2017)
+2017-10-21 18:54:48 ERROR Configuration:193 - Error en la conexion con la bd ERROR: error de sintaxis en o cerca de «Oct»
+  Position: 259
